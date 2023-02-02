@@ -1,0 +1,1 @@
+=COUNTIF(A61:A83;"*english*")
